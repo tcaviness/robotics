@@ -4,5 +4,5 @@
 
 ## [My Code](/tankcontrol.ino)
 
-[!WARNING]
+[!IMPORTANT]
 This code is out of date. The Simblee BLE chip is no longer available. 
