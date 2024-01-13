@@ -33,11 +33,6 @@ void loop() {
   // process must be called in the loop for Simblee UI
   SimbleeForMobile.process();  
 }
-
-
-
-
-
 /*
  * SimbleeForMobile UI callback requesting the user interface
  */
