@@ -112,7 +112,8 @@ void quit(){
   ST.turn(0);
 }
 ~~~
-[!IMPORTANT]
+
+## IMPORTANT
 
  This code is out of date. The Simblee BLE chip is no longer available. 
 
